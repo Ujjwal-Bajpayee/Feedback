@@ -9,8 +9,7 @@ This repository contains a Streamlit-based application that ingests a student’
 1. [APIs Used](#apis-used)  
 2. [Prompt Logic](#prompt-logic)  
 3. [Report Structure](#report-structure)  
-4. [Project Overview](#project-overview)  
-5. [Installation & Running](#installation--running)  
+
 
 ---
 
