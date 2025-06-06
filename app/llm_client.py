@@ -3,7 +3,7 @@
 import requests
 
 # ─── Hard-code your Groq API Key here ───────────────────────────────────────────────
-GROQ_API_KEY = "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"
+GROQ_API_KEY = "put ur api key"
 
 GROQ_CHAT_URL = "https://api.groq.com/openai/v1/chat/completions"
 GROQ_TEXT_URL = "https://api.groq.com/v1/completions"
