@@ -1,0 +1,5 @@
+streamlit>=1.20
+openai              # or your chosen LLM SDK
+matplotlib          # for charts
+pandas              # for JSON→DataFrame manipulation
+fpdf2               # or reportlab, weasyprint, etc. for PDF generation
