@@ -1,6 +1,6 @@
 import matplotlib.pyplot as plt
 
-# MathonGo Brand Colors
+
 PRIMARY_BLUE = "#0033A0"
 ACCENT_ORANGE = "#FF7F00"
 DARK_GRAY = "#333333"
